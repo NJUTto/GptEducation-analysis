@@ -1,2 +1,2 @@
 # GptEducation
-sentiment analysis and topic analysis of the application of CHATGPT in education using weibo data
+Sentiment analysis and topic analysis of the application of ChatGPT in education using data collected from weibo.
